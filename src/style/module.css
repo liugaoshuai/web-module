@@ -1,0 +1,17 @@
+.module-mg-auto{
+    margin: 0 auto;
+}
+.module-bg{
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.module-title{
+    line-height: 80px;
+    font-size: 30px;
+    font-weight: normal;
+}
+.module-subhead{
+    line-height: 60px;
+    font-size: 18px;
+    font-weight: normal;
+}
