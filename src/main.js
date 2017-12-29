@@ -11,6 +11,7 @@ Vue.use(ElementUI)
 
 import './style/module.css'
 import './style/reset.css'
+import './style/common.css'
 
 /* eslint-disable no-new */
 new Vue({
